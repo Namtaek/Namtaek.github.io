@@ -14,7 +14,9 @@ subtitle: Interested in Causal Inference & Bayesian Nonparametrics.
 
 I'm broadly interested in __Statistics and machine learning.__.
 
-My research involves causal inference and Bayesian nonparametrics.
+I am not a fully Bayesian, however, I think Bayesian inference is more informative despite its computational issues.
+
+My research involves causal inference, especially "confounder selection", and Bayesian nonparametrics such as BART.
 
 I am currently a Master's student of __BCIG, Bayesian Causal Inference Group__.
 
