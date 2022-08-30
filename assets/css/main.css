@@ -8,7 +8,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Noto Sans', 'Nanum Gothic', sans-serif;
   /*font-family: 'Lora', 'Nanum Gothic', 'Times New Roman', serif;*/
   font-size: 18px;
   color: #404040;
