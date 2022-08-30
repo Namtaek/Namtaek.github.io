@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Bayesian, Causality]
 ---
 
-사실 깃헙 블로그를 만들자하는 생각은 늘 있어왔다.....
+사실 깃헙 블로그를 만들자하는 생각은 늘 있어왔다..... 폰트 해결하면 써야지
 
 
 
